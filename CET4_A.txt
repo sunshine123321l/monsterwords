@@ -2,15 +2,10 @@ abandon           vt.离弃，丢弃;遗弃，抛弃;放弃
 abdomen           n.腹，下腹(胸部到腿部的部分)
 abide             vi.(abode，abided)(by)遵守;坚持
 ability           n.能力;本领;才能，才干;专门技能，天资
-able              a.有(能力、时间、知识等)做某事，有本事的
-abnormal          a.反常的，不正常的，不规则的
 aboard            ad.&prep.在船(飞机、车)上;ad.上船(飞机)
 abolish           vt.废除(法律、习惯等);取消
 abound            vi.大量存在;(in，with)充满，富于
 about             ad.在周围;大约 prep.关于;在周围 a.准备
-above             a.上述的 ad.在上面 prep.在..之上，高于
-abroad            ad.到国外，在国外;在传播，在流传
-abrupt            a.突然的，出其不意的;(行为等)粗鲁无礼的
 absence           n.缺乏，不存在;缺席，不在;缺席的时间
 absent            a.缺席的;缺乏的,不存在的;心不在焉的
 absolute          a.绝对的，完全的;确实的，肯定的
@@ -114,9 +109,6 @@ affliliate        使隶属（或附属）于，使成为会员
 affluent          a.富裕的，富有的，丰富的，富饶的
 afford            vt.担负得起(损失、费用、后果等)，买得起
 afraid            adj.害怕的，恐惧的;犯愁的，不乐意的
-afternoon         n.下午，午后
-after             prep.在...以后;在...后面 adv.以后，后来
-afterward         ad.(afterwards)以后，后来
 again             ad.再次，另一次;重新;除此，再，更，还
 against           prep.对着，逆;反对;违反;紧靠着;对比
 agency            n.代理(处);代办处;[美](政府的)机关，厅
@@ -224,12 +216,8 @@ any               a.(用于否定句、疑问句等)什么,一些;任何的
 anybody           pron.(否定句)任何人;(肯定句)随便哪个人
 anyhow            ad.不管怎么说，无论如何;不论用何种方法
 anyone            pron.(用于疑问句，否定式)任何人
-anything          pron.任何东西(事物);无论什么东西(事物)
-anyway            ad.不管怎么说，无论如何;不论以何种方式
-anywhere          ad.无论哪里;(用于否定、疑问等)任何地方
 apart             ad.分离，离开，隔开 a.分离的，分隔的
 apartment         n.[英]房间，套间;[美]公寓
-apart             成零碎
 apologise         v.(to,for)道歉，认错
 apology           n.道歉，认错，辩解，辩护
 appal             v.使惊骇，使恐怖
@@ -252,13 +240,11 @@ appoint           vt.任命，委派;指定，约定(时间、地点等)
 appraisal         n.对...作出的评价;评价，鉴定，评估
 appraise          估量，估计
 appreciate        vt.为...表示感激，感谢;欣赏，赏识，评价
-apprehend         对...担心
 approach          v.靠近，接近n.接近;途径，入门;方式,方法
 appropriate       a.适当的,恰当的,特有的 vt.拨给,挪用,盗用
 approval          n.批准，通过;赞成，同意
 approve           v.(of)赞成，赞许，同意;批准，审议，通过
 approximate       a.近似的 vi.(to)接近
-April             (名)四月
 apt               a.恰当的，适当的;易于…的，有…倾向的
 arbitrary         a.任意的，任性的，主观的;专断的，武断的
 architect         n.建筑师;设计师;缔造者;创造者
@@ -287,10 +273,6 @@ artificial        a.人工的，人造的，人为的;虚伪的，做作的
 artistic          a.艺术(家)的，美术(家)的;善于艺术创作的
 artist            n.艺术家，美术家;(某方面的)能手
 art               n.艺术，美术;技术，技艺;文科，人文科学
-as                ad.同样地 conj.由于;像...一样 prep.作为
-ascend            vi.渐渐上升，升高vt.攀登，登上
-ascertain         vt.确定，查明，弄清
-ashamed           a.惭愧的，羞耻的，害臊的
 ash               n.灰，灰末;(pl.)骨灰;(pl.)废墟
 ashore            ad.上岸;在岸上，向岸上
 aside             ad.在旁边，到一边 n.旁白;离题的话
@@ -298,9 +280,6 @@ ask               vt.问，询问;请求，要求;邀请，约请
 asleep            a.睡觉，睡着(用作表语)
 aspect            n.样子, 外表, 面貌, (问题等的)方面
 aspire            vi.(to，after)渴望，追求，有志于
-assassinate       vt.暗杀，行刺;中伤
-assault           v.猛烈地攻击，袭击 n.突然而猛烈的攻击
-assemble          vt.集合，召集;装配;收集 vi.集合，聚集
 assembly          n.集合;会议;装配;(美)洲议会的众议院
 assert            vt.断言,宣称;坚持;主张(权利、权威等)
 assess            vt.(为征税)评估(财产、收入);征税;评价
@@ -322,8 +301,6 @@ astronaut         n.太空人，太空旅行者
 astronomy         n.天文学
 athlete           n.运动员，体育家，身强力壮的人
 atmosphere        n.大气(层);空气;气氛，环境;大气压
-atom              n.原子;微粒，微量
-at                prep.[表示价格、速度等]以，达;在..方面
 attach            v.系，贴，装，连接;使成为一部分;使依恋
 attack            v./n.攻击，抨击;着手，开始 n.(病)发作
 attain            vt.达到;完成;获得 vi.达到
@@ -344,8 +321,6 @@ audio             n./a.音频(响)(的);声音(的)，听觉(的)
 auditorium        n.观众席，听众席;会堂，礼堂
 audit             v.审计;查帐;核对;旁听
 augment           vt.(使)增大，增加，增长，扩张
-aunt              n.姨母，姑母，伯母，婶母，舅母，阿姨
-aural             a.听觉的，听力的
 authentic         a.真的，真正的;可靠的，可信的，有根据的
 authority         n.权力，权威;权威人士;(pl.)官方，当局
 author            n.作者，作家，著作人;创始人，发起人
@@ -365,10 +340,3 @@ avoid             vt.防止，避免;逃避，避开
 await             vt.等候，期待;(事情等)降临于
 awake             a.醒着的 vt.唤醒，使觉醒 vi.醒来，醒悟到
 award             vt.授予,给予;判定 n.奖,奖金;仲裁
-aware             a.知道的，意识到的;
-away              ad.在远处;离开;渐渐远去;一直;去掉
-awe               n.敬畏，惊惧vt.使敬畏，使惊惧
-awful             a.极度的，极坏的;威严的，可怕的
-awkward           a.笨拙的;尴尬的;使用不便的;难处理的
-axe               n.(ax)斧子;削减 vt.用斧砍
-axis              n.轴，轴线，中心线;坐标轴，基准线
